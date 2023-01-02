@@ -1,0 +1,6 @@
+// Add your dependencies here
+
+dependencies {
+    implementation 'net.industrial-craft:industrialcraft-2:2.2.827-experimental:api'
+    implementation 'net.industrial-craft:industrialcraft-2:2.2.827-experimental:dev'
+}

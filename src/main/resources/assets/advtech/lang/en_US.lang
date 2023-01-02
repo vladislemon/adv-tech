@@ -1,0 +1,37 @@
+itemGroup.advtech=Advanced Technology
+
+item.advtech.ultimateDrill.name=Ultimate Drill
+item.advtech.upgradeMining3x3.name=3x3 Mining Mode Upgrade
+item.advtech.upgradeMiningOres.name=Ores Mining Mode Upgrade
+item.advtech.upgradePickupItems.name=Items Pickup Upgrade
+item.advtech.electromagnet.name=Electromagnet
+item.advtech.oreDictConverter.name=Ore Converter
+item.advtech.telemagnet.name=Telemagnet
+item.advtech.universalCharger.name=Universal Charger
+
+advtech.mode=mode
+advtech.Mode=Mode
+advtech.mode.BASE=Normal
+advtech.mode.MINING_3X3=3x3
+advtech.mode.MINING_ORES=Ores Mining
+advtech.mode.LOW_POWER=Low speed
+advtech.mode.PICKUP_ITEMS=Pickup Items
+advtech.Fortune=Fortune
+advtech.SilkTouch=Silk Touch
+advtech.energyPerBlock=Energy per block
+advtech.notEnoughEnergy=Not enough energy to complete the operation
+advtech.pressShift=Press SHIFT to view installed upgrades
+advtech.installedUpgrades=Installed upgrades
+advtech.Enabled=Enabled
+advtech.Disabled=Disabled
+advtech.switchedTo=Switched to
+advtech.noEnergy=No energy
+advtech.Enchantment=Enchantment
+advtech.PowerTier=Power Tier
+advtech.AutoMode=Auto Mode
+advtech.UsedForCrafting=Used for crafting
+advtech.InventoryDetected=Items in external inventory has been converted
+advtech.perBlock=Per block
+
+key.advtech.mode=Mode Switch
+key.advtech.alt=Alternate Mode

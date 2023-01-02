@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "description": "Mod about high-tech items",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "url": "https://github.com/vladislemon/adv-tech",
+      "updateUrl": "",
+      "authorList": ["vladislemon", "JustMeTheFirst"],
+      "credits": "Created by vladislemon, textures drawn by JustMeTheFirst. Some ideas taken from mod LevelStorage.",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

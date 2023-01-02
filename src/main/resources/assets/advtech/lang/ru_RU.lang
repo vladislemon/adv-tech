@@ -1,0 +1,37 @@
+itemGroup.advtech=Продвинутая технология
+
+item.advtech.ultimateDrill.name=Совершенный бур
+item.advtech.upgradeMining3x3.name=Улучшение для добычи 3x3
+item.advtech.upgradeMiningOres.name=Улучшение для добычи руд
+item.advtech.upgradePickupItems.name=Улучшение для подбора предметов
+item.advtech.electromagnet.name=Электромагнит
+item.advtech.oreDictConverter.name=Конвертер руд
+item.advtech.telemagnet.name=Телемагнит
+item.advtech.universalCharger.name=Универсальный зарядник
+
+advtech.mode=режим
+advtech.Mode=Режим
+advtech.mode.BASE=Нормальный
+advtech.mode.MINING_3X3=3x3
+advtech.mode.MINING_ORES=Добыча руд
+advtech.mode.LOW_POWER=Низкая скорость
+advtech.mode.PICKUP_ITEMS=Подбор предметов
+advtech.Fortune=Удача
+advtech.SilkTouch=Шёлковое касание
+advtech.energyPerBlock=Энергии за блок
+advtech.notEnoughEnergy=Недостаточно энергии для завершения операции
+advtech.pressShift=Нажмите SHIFT, чтобы увидеть установленные улучшения
+advtech.installedUpgrades=Установленные улучшения
+advtech.Enabled=Включено
+advtech.Disabled=Выключено
+advtech.switchedTo=Переключён на
+advtech.noEnergy=Нет энергии
+advtech.Enchantment=Зачарование
+advtech.PowerTier=Энергоуровень
+advtech.AutoMode=Авто-режим
+advtech.UsedForCrafting=Используется для крафта
+advtech.InventoryDetected=Предметы во внешнем инвентаре были преобразованы
+advtech.perBlock=За блок
+
+key.advtech.mode=Переключение режима
+key.advtech.alt=Альтернативный режим
