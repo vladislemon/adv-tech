@@ -49,11 +49,11 @@ public class InputHandler {
 
     @SubscribeEvent
     public void onMouseInput(InputEvent.MouseInputEvent event) {
-        int dWheel = Mouse.getDWheel();
+        int dWheel = Mouse.getEventDWheel();
         if(Minecraft.getMinecraft().thePlayer != null && dWheel != 0) {
             UUID playerId = Minecraft.getMinecraft().thePlayer.getUniqueID();
             Action action = dWheel > 0 ? Action.WHEEL_UP : Action.WHEEL_DOWN;
-            tryLockSlot(dWheel / 120);
+            tryLockSlot(dWheel > 0 ? 1 : -1);
             updateAction(playerId, action, true);
         }
     }
