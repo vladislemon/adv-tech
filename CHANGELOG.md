@@ -1,0 +1,1 @@
+- Fix mouse wheel handling
